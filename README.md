@@ -1,5 +1,19 @@
+ ### Hi there, I'm Abhishek Kumar Sinha 👋
+<img align='right' src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" width=35%>
+<img src="https://readme-typing-svg.herokuapp.com?lines=Python+Developer;&left=true&width=400&height=50">
+<h3><b>💫 About Me: Aspiring Python developer, having problem-solving ability and proficiency in the Backend.</b>
+
+ 
+</h3>
+
 # 💫 About Me:
-🔭 I’m currently working on Python<br>👯 I’m looking to collaborate on AI-ML projects<br>🤝 I’m looking for help with Developers or engineers<br>🌱 I’m currently learning Generative AI and DSA<br>💬 Ask me about my skills<br>⚡ Fun fact = i am funny 
+🔭 I’m currently working on Python<br>
+👯 I’m looking to collaborate on AI-ML projects<br>
+🤝 I’m looking for help with Developers or engineers<br>
+🌱 I’m currently learning Generative AI and DSA<br>
+💬 Ask me about my skills<br>
+⚡ Fun fact = i am funny <br>
+📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1fMt8FcbmcBpQceCkgZy3AFLWCmKPJNFT/view?usp=sharing)
 
 
 ## 🌐 Socials:
