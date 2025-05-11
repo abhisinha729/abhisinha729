@@ -13,8 +13,7 @@
 🌱 I’m currently learning Generative AI and DSA<br>
 💬 Ask me about my skills<br>
 ⚡ Fun fact = i am funny <br>
-📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1fMt8FcbmcBpQceCkgZy3AFLWCmKPJNFT/view?usp=sharing)
-
+📄 Know about my experiences <a href="https://drive.google.com/file/d/1fMt8FcbmcBpQceCkgZy3AFLWCmKPJNFT/view?usp=sharing" target="_blank"><strong>Resume</strong></a>
 
 <h2 align="center">🌐 Connect with me:</h2>
 <p align="center">
