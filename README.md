@@ -11,7 +11,7 @@
 👯 I’m looking to collaborate on AI-ML projects<br>
 🤝 I’m looking for help with Developers or engineers<br>
 🌱 I’m currently learning Generative AI and DSA<br>
-💬 Ask me about my skills<br>
+📟 I Practice DSA at [**leetcode**](https://leetcode.com/u/Abhishek_KumarSinha/)<br>
 ⚡ Fun fact = i am funny <br>
 📄 Know about my experiences <a href="https://drive.google.com/file/d/1fMt8FcbmcBpQceCkgZy3AFLWCmKPJNFT/view?usp=sharing" target="_blank"><strong>Resume</strong></a>
 
